@@ -1,4 +1,4 @@
-# How-Can-a-Wellness-Technology-Company-Play-It-Smart : 
+# Google Data Analystics capstone Project : 
 # Introduction :
 Bellabeat is a successful small company, but they have the potential to become a larger player in the
 global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
